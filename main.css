@@ -1,0 +1,10 @@
+body {
+    transition: background-color 0.5s;
+}
+.color-box {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
